@@ -1,0 +1,9 @@
+streamlit
+plotly
+yfinance
+gymnasium
+stable-baselines3[extra]
+ta
+transformers
+shimmy
+torch
